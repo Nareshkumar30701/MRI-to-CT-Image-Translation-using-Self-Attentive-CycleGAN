@@ -1,4 +1,4 @@
-# CycleGAN with Self-Attention Mechanism for MRI to CT Image Translation
+# MRI-to-CT-Image-Translation-using-Self-Attentive-CycleGAN
 This project implements a CycleGAN model enhanced with a Self-Attention mechanism to translate MRI images to CT images. The CycleGAN architecture allows for unpaired image-to-image translation, enabling the generation of CT images from MRI scans without requiring paired training data.
 
 ## Table of Contents
