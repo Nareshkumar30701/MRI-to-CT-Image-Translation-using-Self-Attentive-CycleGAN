@@ -1,1 +1,3 @@
-dataset link: kaggle datasets download -d nareshkumarsatish/mri-and-ct
+# Code snippet for dataset
+
+kaggle datasets download -d nareshkumarsatish/mri-and-ct
